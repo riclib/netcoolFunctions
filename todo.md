@@ -1,4 +1,4 @@
-# Request format
+# Request format, captured with proxy
 ``` json
 {
   "schemaId": "AzureMonitorMetricAlert",
